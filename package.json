@@ -1,6 +1,6 @@
 {
   "name": "signet-assembler",
-  "version": "1.1.1",
+  "version": "2.0.0",
   "description": "Assemble signet type objects into type strings",
   "main": "index.js",
   "scripts": {
